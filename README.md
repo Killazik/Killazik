@@ -1,11 +1,11 @@
-<!-- Анимированный баннер с эффектом печатающегося текста KILLAZIK -->
+<!-- Анимированный баннер с волной на фоне и текстом KILLAZIK -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&weight=900&size=55&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=120&lines=KILLAZIK;%3E_BACKEND_DEV;KILLAZIK" alt="Animated Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=KILLAZIK&fontSize=70&fontAlignY=35&stroke=ffffff&strokeWidth=2&desc=%3E_BACKEND%20DEVELOPER&descAlignY=65&animation=fadeIn&fontColor=00000000&v=10" width="100%" />
 </p>
 
 <br>
 
-<!-- Анимированный печатающийся стек терминала -->
+<!-- Печатающийся стек в стиле терминала -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=%3E_init_system_kernel...;%3E_Python;%3E_VS+Code;%3E_Git;%3E_PostgreSQL" alt="Typing SVG" />
 </p>
