@@ -1,6 +1,10 @@
-<h1 align="center">Привет! Я Killazik 👋</h1>
+<!-- Красивый динамический баннер сверху -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Привет!%20Я%20Killazik&fontSize=40&animation=fadeIn" width="100%" />
+
+<br>
 
 <!-- Блок с иконками технологий -->
+<h3 align="center">Мой стек технологий:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -10,7 +14,7 @@
 
 <br>
 
-<!-- Надежный виджет статистики (GitHub Readme Streak) -->
+<!-- Социальные сети и счетчик просмотров профиля -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Killazik&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=Killazik&label=Просмотров%20профиля&color=0e75e8&style=flat" alt="Views" />
 </p>
