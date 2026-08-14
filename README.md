@@ -1,11 +1,6 @@
-<!-- Анимированный баннер с волной на фоне -->
+<!-- Анимированный баннер: бегущий код на фоне + волна + прозрачный KILLAZIK -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=KILLAZIK&fontSize=70&fontAlignY=35&stroke=ffffff&strokeWidth=2&desc=%3E_BACKEND%20DEVELOPER&descAlignY=65&animation=fadeIn&fontColor=00000000&v=12" width="100%" />
-</p>
-
-<!-- Имитация бегущего мелкого кода сразу за баннером -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=2000&pause=500&color=555555&center=true&vCenter=true&width=700&lines=def+init_system()%3A+import+os%2C+sys%2C+asyncio%3B+print('Kernel+loaded')%3B;SELECT+*+FROM+users+WHERE+role+%3D+'backend_developer'+LIMIT+1%3B;async+def+fetch_data(url)%3A+async+with+aiohttp.ClientSession()+as+session%3A;git+commit+-m+%22feat%3A+add+async+parser+and+database+migrations%22;status_code+%3D+200%3B+return+JsonResponse(%7B'status'%3A+'success'%7D)" alt="Code typing" />
+  <img src="https://svg-banners.my.id/api?type=matrix&text=KILLAZIK&subtext=%3E_BACKEND_DEVELOPER&width=800&height=220&theme=dark" width="100%" />
 </p>
 
 <br>
