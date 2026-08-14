@@ -1,13 +1,13 @@
-<!-- Анимированный баннер в стиле терминала с обводкой -->
+<!-- Анимированный баннер с эффектом печатающегося текста KILLAZIK -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=KILLAZIK&fontSize=70&fontAlignY=35&stroke=ffffff&strokeWidth=2.5&desc=%3E_LOADING_TERMINAL_KERNEL...&descAlignY=65&animation=twinkle&fontColor=00000000" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&weight=900&size=55&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=120&lines=KILLAZIK;%3E_BACKEND_DEV;KILLAZIK" alt="Animated Banner" />
 </p>
 
 <br>
 
-<!-- Анимированный печатающийся стек как в консоли -->
+<!-- Анимированный печатающийся стек терминала -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%3E_init_system_kernel...;%3E_Python;%3E_VS+Code;%3E_Git;%3E_PostgreSQL;%3E_Backend+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=%3E_init_system_kernel...;%3E_Python;%3E_VS+Code;%3E_Git;%3E_PostgreSQL" alt="Typing SVG" />
 </p>
 
 <br>
