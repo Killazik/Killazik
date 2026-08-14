@@ -5,9 +5,9 @@
 
 <br>
 
-<!-- Печатающийся стек -->
+<!-- Печатающийся стек с неоновой подсветкой -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%3E_init_system_kernel...;%3E_Python;%3E_VS+Code;%3E_Git;%3E_PostgreSQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=%3E_init_system_kernel...;%3E_Python;%3E_VS+Code;%3E_Git;%3E_PostgreSQL" alt="Typing SVG" />
 </p>
 
 <br>
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00D2FF" />
 </p>
 
 <br>
