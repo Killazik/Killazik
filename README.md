@@ -1,6 +1,6 @@
-<!-- Черно-белый баннер slice с обводкой и подзаголовком -->
+<!-- Черно-белый баннер slice с анимированной обводкой и подзаголовком -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=220&section=header&text=KILLAZIK&fontSize=70&fontAlignY=35&stroke=ffffff&strokeWidth=2&desc=BACKEND%20DEVELOPER&descAlignY=65&animation=twinkle&fontColor=00000000" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=220&section=header&text=KILLAZIK&fontSize=70&fontAlignY=35&stroke=ffffff&strokeWidth=2&desc=BACKEND%20DEVELOPER&descAlignY=65&animation=fadeIn&fontColor=00000000&v=1" width="100%" />
 </p>
 
 <br>
