@@ -12,5 +12,5 @@
 
 <!-- Блок со статистикой -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Killazik&show_icons=true&theme=tokyonight&locale=ru&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Killazik&show_icons=true&theme=dark&locale=ru" alt="GitHub Stats" />
 </p>
