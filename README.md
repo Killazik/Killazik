@@ -1,6 +1,6 @@
-<!-- Анимированный баннер с обводкой и свечением -->
+<!-- Анимированный SVG-баннер из файла banner.svg -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=KILLAZIK&fontSize=70&fontAlignY=35&stroke=ffffff&strokeWidth=3&desc=%3E_BACKEND%20DEVELOPER&descAlignY=65&animation=glowing&fontColor=00000000&v=300" width="100%" />
+  <img src="./banner.svg" width="100%" />
 </p>
 
 <br>
