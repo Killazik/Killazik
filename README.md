@@ -10,7 +10,7 @@
 
 <br>
 
-<!-- Блок со статистикой -->
+<!-- Надежный виджет статистики (GitHub Readme Streak) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Killazik&show_icons=true&theme=dark&locale=ru" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Killazik&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
