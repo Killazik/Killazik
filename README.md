@@ -1,6 +1,79 @@
-<!-- Черно-белый баннер slice с анимированной обводкой и подзаголовком -->
+<!-- Анимированный баннер в стиле терминала -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=000000&height=220&section=header&text=KILLAZIK&fontSize=70&fontAlignY=35&stroke=ffffff&strokeWidth=2&desc=BACKEND%20DEVELOPER&descAlignY=65&animation=fadeIn&fontColor=00000000&v=1" width="100%" />
+  <svg width="100%" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <!-- Стиль и анимации -->
+      <style>
+        .bg { fill: #000000; }
+        
+        /* Текст фона (строки терминала) */
+        .term-text {
+          font-family: 'Fira Code', 'Courier New', monospace;
+          font-size: 13px;
+          fill: #333333;
+        }
+        
+        /* Движение текста вверх */
+        .scroll-bg {
+          animation: scrollTerminal 8s linear infinite;
+        }
+        
+        @keyframes scrollTerminal {
+          0% { transform: translateY(0px); }
+          100% { transform: translateY(-100px); }
+        }
+
+        /* Главный прозрачный заголовок с обводкой */
+        .main-title {
+          font-family: 'Arial Black', Impact, sans-serif;
+          font-size: 72px;
+          font-weight: 900;
+          fill: none;
+          stroke: #ffffff;
+          stroke-width: 2.5px;
+          letter-spacing: 12px;
+          animation: pulseGlow 3s ease-in-out infinite alternate;
+        }
+
+        .sub-title {
+          font-family: 'Fira Code', 'Courier New', monospace;
+          font-size: 16px;
+          fill: #ffffff;
+          letter-spacing: 6px;
+        }
+
+        @keyframes pulseGlow {
+          0% { stroke: #888888; filter: drop-shadow(0 0 2px rgba(255,255,255,0.2)); }
+          100% { stroke: #ffffff; filter: drop-shadow(0 0 8px rgba(255,255,255,0.9)); }
+        }
+      </style>
+    </defs>
+
+    <!-- Чёрный фон -->
+    <rect width="100%" height="100%" class="bg" rx="8"/>
+
+    <!-- Бегущий текст терминала на заднем плане -->
+    <g class="scroll-bg">
+      <text x="20" y="30" class="term-text">> init_system_kernel --verbose</text>
+      <text x="20" y="50" class="term-text">> loading modules: [python3, postgresql, git, vscode]... OK</text>
+      <text x="20" y="70" class="term-text">> connecting to remote host 127.0.0.1:8000... status 200 OK</text>
+      <text x="20" y="90" class="term-text">> exec /bin/bash -c 'echo ACCESS_GRANTED'</text>
+      <text x="20" y="110" class="term-text">> compiling backend_service.py... done in 0.04s</text>
+      <text x="20" y="130" class="term-text">> SELECT * FROM users WHERE status = 'developer';</text>
+      <text x="20" y="150" class="term-text">> git commit -m "feat: core functionality integrated"</text>
+      <text x="20" y="170" class="term-text">> system initialized successfully. listening on port 443...</text>
+      <text x="20" y="190" class="term-text">> init_system_kernel --verbose</text>
+      <text x="20" y="210" class="term-text">> loading modules: [python3, postgresql, git, vscode]... OK</text>
+      <text x="20" y="230" class="term-text">> connecting to remote host 127.0.0.1:8000... status 200 OK</text>
+      <text x="20" y="250" class="term-text">> exec /bin/bash -c 'echo ACCESS_GRANTED'</text>
+      <text x="20" y="270" class="term-text">> compiling backend_service.py... done in 0.04s</text>
+      <text x="20" y="290" class="term-text">> SELECT * FROM users WHERE status = 'developer';</text>
+    </g>
+
+    <!-- Поверх поверх фона: Большой заголовок KILLAZIK -->
+    <text x="50%" y="125" text-anchor="middle" class="main-title">KILLAZIK</text>
+    <text x="50%" y="170" text-anchor="middle" class="sub-title">> BACKEND DEVELOPER</text>
+  </svg>
 </p>
 
 <br>
